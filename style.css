@@ -1,0 +1,116 @@
+.logo{
+    width: 100px;
+}
+.btn{
+    background-color: #21b573;
+    border: none;
+    margin: 5px;
+}
+.nav-link{
+    margin: 5px;
+}
+.nav-link:hover{
+    text-overflow: 10px 10px 10px gray;
+    background-color: #21b573;
+    border-radius: 5px;
+    
+}
+.nav1{
+    background-color:#f0fff0;
+    
+}
+.firsttag{
+    color: red;
+}
+.second-line{
+    color: #21b573;
+}
+.hp{
+    color: gray;
+}
+.start-button{
+    border: none;
+    background-color: #21b573;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+}
+.start-button:hover{
+    color: white;
+    background-color: black;
+}
+.hotpage{
+    background-color: #f0fff0;
+}
+.card-4{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    box-shadow: 3px 3px 10px #d6d6d6;
+    border: none;
+    background-color: #f0fff0;
+
+}
+.card-4:hover{
+    background-color: white;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+.card4{
+    padding: 20px;
+}
+.card-3 img{
+    width: auto;
+    height: 250px;
+}
+.card-3{
+    border: none;
+    box-shadow: 3px 3px 6px gray;
+}
+.card-footer{
+    border: none;
+}
+.card-footer img{
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+}
+.text-muted{
+    text-align: center;
+}
+.card3{
+    padding-bottom: 20px;
+}
+.review-title{
+    text-align: center;
+}
+
+.circle{
+    width: 200px;
+}
+.image-with-text{
+    display: block;
+}
+.review{
+    
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+      
+}
+.card-review{
+    border: none;
+    padding: 10px;
+    
+}
+.footer1{
+    background-color: #3a3a3a;
+    color: gray;
+
+}
+.list-unstyled{
+    color: gray;
+}
